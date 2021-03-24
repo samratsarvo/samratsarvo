@@ -1,4 +1,4 @@
-### Hi there, I'm sarbottam :wave:
+### Hi there, I'm Sarbottam :wave:
 ## Passionate of building Full Stack Web Applications
 - 🌱 Trying to catch up with latest techs
 
