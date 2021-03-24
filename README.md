@@ -1,6 +1,9 @@
 ### Hi there, I'm Sarbottam :wave:
 ## Passionate of building Full Stack Web Applications
 - 🌱 Trying to catch up with latest techs
+- 🔭 &nbsp; Currently working on  React, Redux, HTML5, CSS3, Javascript – ES5, ES6, Bootstrap
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 ### Connect with me: 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
