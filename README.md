@@ -1,8 +1,7 @@
 ### Hi there, I'm sarbottam :wave:
-## I'm a Fullstack Developer, Content Creator and a Freelancer!
-- 🌱 Trying to catch up with latest techs :laughing:
-- 🔥 2021 Goals: Contribute more to Open Source projects
-- :zap: Hobbies: I love to draw and admire digital art work / styles (favorites: WLOP and ShalE)
+## Passionate of building Full Stack Web Applications
+- 🌱 Trying to catch up with latest techs
+
 ### Connect with me: 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
