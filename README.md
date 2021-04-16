@@ -3,7 +3,7 @@
 # I’m currently looking for a Front End Developer job !!
 
 ## Passionate of building Full Stack Web Applications
-- 🌱 Trying to catch up with latest techs
+- 🌱  Trying to catch up with latest techs
 - 🔭 &nbsp; Currently working on  React, Redux, HTML5, CSS3, Javascript – ES5, ES6, Bootstrap
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
