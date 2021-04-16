@@ -1,4 +1,7 @@
 ### Hi there, I'm Sarbottam :wave:
+
+### I’m currently looking for a Front End Developer job !!
+
 ## Passionate of building Full Stack Web Applications
 - 🌱 Trying to catch up with latest techs
 - 🔭 &nbsp; Currently working on  React, Redux, HTML5, CSS3, Javascript – ES5, ES6, Bootstrap
