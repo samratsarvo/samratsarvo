@@ -27,9 +27,7 @@
 
 ### Connect with me: 
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/sarbottam-datta-064435b1/
-[github]: https://github.com/samratsarvo
 [gmail]: mailto:sarbottamdatta@gmail.com
